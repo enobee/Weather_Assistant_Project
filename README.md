@@ -8,8 +8,8 @@ The **Weather AI Assistant** is a Python-based AI agent that provides users with
 ## 🛠 Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/enobee/weather-ai-assistant.git
-cd weather-ai-assistant
+git clone https://github.com/enobee/Weather_Assistant_Project.git
+cd Weather_Assistant_Project
 ```
 
 ### 2️⃣ Set Up a Virtual Environment
